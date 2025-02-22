@@ -20,6 +20,33 @@ We explore:
 
 ---
 
+- [Is racing to build Artificial General Intelligence wise? Is AGI too risky, or rather inevitable?!](#is-racing-to-build-artificial-general-intelligence-wise-is-agi-too-risky-or-rather-inevitable)
+  - [Artificial General Intelligence: A Comprehensive Study Guide](#artificial-general-intelligence-a-comprehensive-study-guide)
+  - [The Ethics of Conscious AGI](#the-ethics-of-conscious-agi)
+  - [Global AGI Governance: Challenges and Solutions](#global-agi-governance-challenges-and-solutions)
+  - [AGI Architectures and Consciousness](#agi-architectures-and-consciousness)
+  - [Artificial General Intelligence: The Grand Dream of AI](#artificial-general-intelligence-the-grand-dream-of-ai)
+  - [AGI's Ascendance: Investment and Innovation](#agis-ascendance-investment-and-innovation)
+  - [AGI: Promise and Peril](#agi-promise-and-peril)
+  - [Approaches to Artificial General Intelligence](#approaches-to-artificial-general-intelligence)
+  - [Safeguarding Humanity in the Age of AGI](#safeguarding-humanity-in-the-age-of-agi)
+  - [Defining and Measuring Artificial General Intelligence](#defining-and-measuring-artificial-general-intelligence)
+  - [Consciousness and Artificial General Intelligence](#consciousness-and-artificial-general-intelligence)
+  - [AGI's Societal Impact: Opportunities and Risks](#agis-societal-impact-opportunities-and-risks)
+  - [Artificial General Intelligence: Promises and Perils](#artificial-general-intelligence-promises-and-perils)
+  - [AGI Development: A Global Landscape](#agi-development-a-global-landscape)
+  - [The Future of Artificial General Intelligence](#the-future-of-artificial-general-intelligence)
+  - [AGI: Hype or Legitimate Concern?](#agi-hype-or-legitimate-concern)
+  - [Artificial General Intelligence: Benefits and Risks](#artificial-general-intelligence-benefits-and-risks)
+  - [AGI Risks and Mitigation Strategies](#agi-risks-and-mitigation-strategies)
+  - [AGI: Transformation and Peril](#agi-transformation-and-peril)
+  - [AGI: Flourishing or Extinction](#agi-flourishing-or-extinction)
+  - [AGI: Ban or Responsible Development?](#agi-ban-or-responsible-development)
+  - [Preparing for Artificial General Intelligence](#preparing-for-artificial-general-intelligence)
+
+
+---
+
 ## Artificial General Intelligence: A Comprehensive Study Guide
 
 To achieve a comprehensive understanding of Artificial General Intelligence (AGI), one must embark on a multidisciplinary journey encompassing computer science, neuroscience, philosophy, ethics, and policy. Here's a study guide outlining key areas to explore:
